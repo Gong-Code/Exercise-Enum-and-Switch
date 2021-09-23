@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "00UKp/yk72N+wIEcNjrbEQHgQNcwelKJV/IDnW5jq6t1qI7263yOPUZp81mXq9OWvdbe3qWVkesDjE1dY6didg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gongm\\source\\repos\\Enum and Switch\\Enum and Switch\\Enum and Switch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gongm\\.nuget\\packages\\grpc.core.api\\2.40.0\\grpc.core.api.2.40.0.nupkg.sha512",
+    "C:\\Users\\gongm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}

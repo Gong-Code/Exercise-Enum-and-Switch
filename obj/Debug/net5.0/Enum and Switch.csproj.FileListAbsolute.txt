@@ -1,0 +1,18 @@
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.exe
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.deps.json
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.runtimeconfig.json
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.runtimeconfig.dev.json
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.dll
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\ref\Enum and Switch.dll
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Enum and Switch.pdb
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.csprojAssemblyReference.cache
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.AssemblyInfoInputs.cache
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.AssemblyInfo.cs
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.csproj.CoreCompileInputs.cache
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.csproj.CopyComplete
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.dll
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\ref\Enum and Switch.dll
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.pdb
+C:\Users\gongm\source\repos\Enum and Switch\Enum and Switch\obj\Debug\net5.0\Enum and Switch.genruntimeconfig.cache
